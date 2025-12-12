@@ -44,7 +44,7 @@ Task Manager with priorities and categories
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carat-digi&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carat-digi&layout=donut&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carat-digi&layout=compact&theme=radical)
 
 </div>
 
